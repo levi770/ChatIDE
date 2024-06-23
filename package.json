@@ -1,6 +1,6 @@
 {
   "name": "chatide",
-  "publisher": "ChatIDE",
+  "publisher": "levi770",
   "displayName": "ChatIDE - Coding Assistant (GPT/ChatGPT, Claude)",
   "description": "ChatIDE is an open-source coding and debugging assistant that supports GPT/ChatGPT (OpenAI), and Claude (Anthropic). Supported models: [gpt4, gpt-3.5-turbo, claude-v1.3]. Import/export your conversation history. Bring up the assistant in a side pane by pressing cmd+shift+i.",
   "version": "0.3.4",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yagil/ChatIDE"
+    "url": "https://github.com/levi770/ChatIDE"
   },
   "categories": [
     "Other"
